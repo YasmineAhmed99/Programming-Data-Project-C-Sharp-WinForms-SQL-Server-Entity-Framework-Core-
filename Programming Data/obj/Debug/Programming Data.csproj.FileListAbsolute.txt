@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Programming Data\bin\Debug\Programming Data.exe.config
+C:\Users\LENOVO\source\repos\Programming Data\bin\Debug\Programming Data.exe
+C:\Users\LENOVO\source\repos\Programming Data\bin\Debug\Programming Data.pdb
+C:\Users\LENOVO\source\repos\Programming Data\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\Programming Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\Programming Data\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\Programming Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\Programming Data\obj\Debug\Programming Data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Programming Data\obj\Debug\Programming Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Programming Data\obj\Debug\Programming_Data.Form1.resources
+C:\Users\LENOVO\source\repos\Programming Data\obj\Debug\Programming_Data.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Programming Data\obj\Debug\Programming Data.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Programming Data\obj\Debug\Programming Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Programming Data\obj\Debug\Programming Data.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Programming Data\obj\Debug\Programming Data.exe
+C:\Users\LENOVO\source\repos\Programming Data\obj\Debug\Programming Data.pdb
